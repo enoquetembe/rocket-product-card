@@ -23,4 +23,10 @@ export default createGlobalStyle`
     font-family: 'Crimson Pro', serif;
     font-size: 600;
   }
+
+  button {
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
 `

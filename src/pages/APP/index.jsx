@@ -1,10 +1,11 @@
 import { Container } from './styles'
+import { Card } from '../../components/Card'
 
 export function App() {
  
   return (
     <Container>
-     <h1>Helooo</h1>
+    <Card/>
     </Container>
   )
 }
