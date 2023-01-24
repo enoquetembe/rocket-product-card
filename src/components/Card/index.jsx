@@ -3,10 +3,15 @@ import sofaImg from '../../assets/sofa-img.png'
 import sofaGif from '../../assets/sofa-gif.gif'
 
 export function Card() {
+
+  function handleClick(event) {
+    event.target.classList.toggle("hide")
+  }
+
   return (
     <Container>
       <div className='product'>
-        <button>
+        <button onClick={handleClick}>
           <svg
             width="33"
             height="23"

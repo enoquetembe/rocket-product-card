@@ -40,4 +40,12 @@ export const Container = styled.div`
     }
 
   }
+
+  .hide {
+    display: none;
+  }
+
+  .active {
+    display: block;
+  }
 `
