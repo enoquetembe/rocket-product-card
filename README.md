@@ -1,4 +1,4 @@
-<h1 align="center">Rocket Music Player - #boracodar challenge 02 </h1>
+<h1 align="center">Rocket Product Card - #boracodar challenge 02 </h1>
 
 <p align="center">
 Challenge created by Rockeseat.
